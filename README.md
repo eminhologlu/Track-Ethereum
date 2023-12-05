@@ -1,16 +1,13 @@
-# kripto
+# Track Ethereum
 
-A new Flutter project.
+a mobile application developed with flutter where you can see the statistics of the ethereum blockchain
 
-## Getting Started
+## Configuration
 
-This project is a starting point for a Flutter application.
+You need to define the APIKEY values in the getGas.dart and getEther.dart classes
 
-A few resources to get you started if this is your first Flutter project:
+## Screens
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot_1701772235](https://github.com/eminhologlu/Track-Ethereum/assets/93734207/09671ef5-f558-42f0-b807-95cfed14298d)
+![Screenshot_1701772229](https://github.com/eminhologlu/Track-Ethereum/assets/93734207/ed235e4e-8ac5-45f7-b6aa-ac839f3610b2)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
